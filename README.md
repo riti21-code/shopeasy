@@ -68,7 +68,7 @@ JWT_SECRET=mysecretkey123
 PORT=5000
 ```
 
-![ShopEasy Screenshot](LoginPage.png)
+![ShopEasy Screenshot](Loginpage.png)
 > Login Page | Products Page | Cart Page
 
 Products Page
