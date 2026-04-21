@@ -72,7 +72,7 @@ PORT=5000
 > Login Page | Products Page | Cart Page
 
 Products Page
-![Products Page](products.png)
+![Products Page](Products.png)
 
 Cart Page
 ![Cart Page](Cart.png)
